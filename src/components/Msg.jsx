@@ -5,7 +5,7 @@ const Msg = ({isim}) => {
   return   (
 <div>
   
-  <h1 >Hi My Name is {isim}</h1> 
+  <h1 >Hi my Name is {isim}</h1> 
   
 </div>
 
